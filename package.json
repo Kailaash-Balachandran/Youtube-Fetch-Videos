@@ -1,0 +1,20 @@
+{
+  "name": "youtube-fetch-video",
+  "version": "1.0.0",
+  "description": "Connect to Youtube API at ease",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "youtube",
+    "videos",
+    "youtube",
+    "api"
+  ],
+  "author": "Kailaash Balachandran",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2"
+  }
+}
