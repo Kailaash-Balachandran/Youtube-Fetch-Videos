@@ -16,5 +16,8 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.16.2"
+  },
+  "devDependencies": {
+    "tape": "^4.8.0"
   }
 }
