@@ -1,4 +1,4 @@
-# youtube-finder
+# youtube-fetch-video
 
 Connect to Youtube API at ease.
 
@@ -52,12 +52,7 @@ term
         * video
     default value is: video
 
-* videoDuration
-    Acceptable values are:
-        * any: do not filter search results videos by duration. This is the default value.
-        * long: Include only videos more than 20 minutes.
-        * medium: Include only videos between 4 and 20 minutes (inclusive) in length.
-        * short: Include only videos of less than 4 minutes.
+
 
 more info at website official: https://developers.google.com/youtube/v3/docs/search/list#parmetros
 ```
