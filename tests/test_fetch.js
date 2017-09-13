@@ -33,7 +33,7 @@ test('Throw error if no key or term exists ', function (t) {
 
 test('Assign default values for maxResults and order if not present', function (t) {
   var options = {
-    key: 'AIzaSyC3yFwYR-Ifih7RJeB1zXibczCSQzkvVWw',
+    key: 'AIzaSyC3yFwYR-Ifih7RJeB1zXibczCS23QzkvVWw',
     term: "Test Term"
   };
   search(options, function (err, results) {

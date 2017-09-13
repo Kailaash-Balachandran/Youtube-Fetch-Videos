@@ -1,6 +1,6 @@
 {
   "name": "youtube-fetch-video",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Connect to Youtube API at ease",
   "main": "index.js",
   "scripts": {
