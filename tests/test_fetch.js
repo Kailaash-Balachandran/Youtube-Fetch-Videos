@@ -37,8 +37,9 @@ test('Assign default values for maxResults and order if not present', function (
     term: "Test Term"
   };
   search(options, function (err, results) {
-    t.equal(options.maxResults, '50');
+    t.equal(options.maxResults, '5');
     t.equal(options.order, 'relevance');
+    t.equal(options.type, 'video');
   });
   t.end();
 });

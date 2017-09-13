@@ -17,6 +17,13 @@
   "dependencies": {
     "axios": "^0.16.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kailaash-Balachandran/Youtube-Fetch-Videos"
+  },
+  "bugs": {
+    "url": "https://github.com/Kailaash-Balachandran/Youtube-Fetch-Videos/issues"
+  },
   "devDependencies": {
     "tape": "^4.8.0"
   }
